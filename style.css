@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    color: azure;
+}
+circle {
+    color: turquoise;
+}
+
+rect {
+  color: aquamarine;
+}
+h3
+  {
+    font-size: 25px !important;
+  }
+  canvas {
+  	border:1px solid black;
+  }
